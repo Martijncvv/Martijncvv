@@ -1,20 +1,18 @@
-### Hi there 👋
-
 ### Welcome to my GitHub profile! ###
 
-My name is Martijn van Veen, 26 years old and I am interested in technological
-innovations. This ranges from blockchain technology to artificial intelligence, and from
+:chains:  My name is Martijn van Veen, 26 years old and I am interested in technological
+innovations. This ranges from **blockchain technology** to artificial intelligence, and from
 apps that track body data to the third industrial revolution. I like to think about solutions
 for certain problems and read about creative innovations.
 
-In my free time I like to create (educational) content on social media about various
+:man_student:  In my free time I like to go tot he gym and create **educational** content on social media about various
 blockchain projects. Currently I’m developing myself to be able to work as a developer at
-an innovative and open-minded company. 🌱
+an innovative and open-minded company.
 
-INTP/INTF_Logician/Mediator, Humanitarian: Driven to make the world a better place.
+:butterfly:	 INTP/INTF_Logician/Mediator, **Humanitarian**: Driven to make the world a better place.
 Creative and imaginative in coming up with insightful solutions to meaningful problems.
 
-Feel free to look through my repositories, I'm currently working on a product transparency platform. 
+:male_detective:  Feel free to look through my repositories, I'm currently working on a product transparency platform. 
 
 You can always contact me via [LinkedIn](https://www.linkedin.com/in/martijncvv/).
 
