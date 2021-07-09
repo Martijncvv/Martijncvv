@@ -2,12 +2,10 @@
 
 :chains:  My name is Martijn van Veen, 26 years old and I am interested in technological
 innovations. This ranges from **blockchain technology** to artificial intelligence, and from
-apps that track body data to the third industrial revolution. I like to think about solutions
-for certain problems and read about creative innovations.
+apps that track body data to the third industrial revolution.
 
-:man_student:  In my free time I like to go tot he gym and create **educational** content on social media about various
-blockchain projects. Currently I’m developing myself to be able to work as a developer at
-an innovative and open-minded company.
+:man_student:  In my free time I like to go to the gym and create **educational** content on social media about various
+blockchain projects. I also like to create solutions for certain problems and read about creative innovations. Currently I’m developing myself to be able to work as a developer at an innovative and open-minded company.
 
 :butterfly:	 INTP/INTF_Logician/Mediator, **Humanitarian**: Driven to make the world a better place.
 Creative and imaginative in coming up with insightful solutions to meaningful problems.
