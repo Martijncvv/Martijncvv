@@ -10,7 +10,7 @@ blockchain projects. I also like to create solutions for certain problems and re
 :butterfly:	 INTP/INTF_Logician/Mediator, **Humanitarian**: Driven to make the world a better place.
 Creative and imaginative in coming up with insightful solutions to meaningful problems.
 
-:male_detective:  Feel free to look through my repositories, I'm currently working on a product transparency platform. 
+:male_detective:  Feel free to look through my repositories and have a look at my personal [website](https://martijn.digital/).
 
 You can always contact me via [LinkedIn](https://www.linkedin.com/in/martijncvv/).
 
