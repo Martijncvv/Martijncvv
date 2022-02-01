@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! ###
 
-:chains:  My name is Martijn van Veen, 26 years old and I am interested in technological
+:chains:  My name is Martijn, 26 years old and I am interested in technological
 innovations. This ranges from **blockchain technology** to artificial intelligence, and from
 apps that track body data to the third industrial revolution.
 
