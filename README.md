@@ -6,7 +6,7 @@ apps that track body data to the third industrial revolution.
 
 :man_student:  In my free time I like to go to the gym and create **educational** content on social media about various blockchain projects. Currently I’m developing myself to be able to work as a developer at an innovative company.
 
-:butterfly:	 INTP/INTF_Logician/Mediator, Humanitarian: Driven to make the world a better place.
+:butterfly:	 INTP/INTF_Logician/Mediator, **Humanitarian**: Driven to make the world a better place.
 Creative and imaginative in coming up with insightful solutions to meaningful problems.
 
 :male_detective:  Feel free to look through my repositories and have a look at my personal [website](https://martijn.digital/).
