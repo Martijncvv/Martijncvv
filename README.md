@@ -1,7 +1,6 @@
 ### Welcome to my GitHub profile! ###
 
-:chains:  My name is Martijn and I am interested in technological
-innovations. This ranges from **blockchain technology** to artificial intelligence, and from apps that track body data to the third industrial revolution.
+:chains:  I'm Martijn, an enthusiastic developer from the Netherlands. Two years ago I started my developer's journey and I've been building various tools for the web3 industry on my own (currently 150+ active users). What I’m looking for is to work with a team on meaningful projects to grow further as a developer.
 
 :man_student:  In my free time I like to go to the gym and create **educational** content on social media about various blockchain projects. Currently I’m developing myself to be able to work as a developer at an innovative company.
 
