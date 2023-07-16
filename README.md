@@ -1,13 +1,11 @@
 ### Welcome to my GitHub profile! ###
 
-:chains:  I'm Martijn, an enthusiastic developer from the Netherlands. Two years ago I started my developer's journey and I've been building various tools for the web3 industry on my own (currently 320+ installs). What I’m looking for is to work with a team on meaningful projects to grow further as a developer.
+:chains:  I'm Martijn, an enthusiastic developer from the Netherlands. Four years ago I started my developer's journey and I've been building various tools for the web3 industry (currently 600+ installs).
 
 :man_student:  In my free time I like to go to the gym and create **educational** content on social media about various blockchain projects. Currently I’m developing myself to be able to work as a developer at an innovative company.
 
 :butterfly:	 INTP/INTF_Logician/Mediator, **Humanitarian**: Driven to make the world a better place.
 Creative and imaginative in coming up with insightful solutions to meaningful problems.
-
-:male_detective:  Feel free to look through my repositories and have a look at my personal [website](https://martijn.digital/).
 
 You can always contact me via [LinkedIn](https://www.linkedin.com/in/martijncvv/).
 
