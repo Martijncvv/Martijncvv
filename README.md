@@ -2,7 +2,7 @@
 
 :chains:  I'm Martijn, an enthusiastic developer from the Netherlands. Four years ago I started my developer's journey and I've been building various tools for the web3 industry (currently 600+ installs).
 
-:man_student:  In my free time I like to go to the gym and create **educational** content on social media about various blockchain projects. Currently I’m developing myself to be able to work as a developer at an innovative company.
+:man_student:  In my free time I like to go to the gym and create **educational** content on social media about various blockchain projects.
 
 :butterfly:	 INTP/INTF_Logician/Mediator, **Humanitarian**: Driven to make the world a better place.
 Creative and imaginative in coming up with insightful solutions to meaningful problems.
