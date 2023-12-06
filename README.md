@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! ###
 
-:chains:  I'm Martijn, an enthusiastic developer from the Netherlands. Four years ago I started my developer's journey and I've been building various tools for the web3 industry (currently 600+ installs).
+:chains:  I'm Martijn, an enthusiastic developer from the Netherlands. Four years ago I started my developer's journey and I've been building various tools for the web3 industry (currently 800+ installs).
 
 :man_student:  In my free time I like to go to the gym and create **educational** content on social media about various blockchain projects.
 
