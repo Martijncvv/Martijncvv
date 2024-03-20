@@ -28,9 +28,7 @@
 
 
 #### Education & Certifications 
-🔹NestJS GraphQL
-
-🔹Apollo GraphQL
+🔹NestJS and Apollo GraphQL
 
 🔹University of Amsterdam, Pre-Master Software Engineering (Grade: 8.8)
 
