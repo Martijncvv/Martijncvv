@@ -50,7 +50,7 @@
 
 
 
-You can contact me via [LinkedIn](https://www.linkedin.com/in/martijncvv/).
+You can contact me via [LinkedIn](https://www.linkedin.com/in/martijnvanven/).
 
 
 
