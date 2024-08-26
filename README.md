@@ -13,7 +13,7 @@
 #### Achievements 
 🔹Development of a P2P tutoring application from scratch to launch, used by 15+ high schools.
 
-🔹Development of various tools for the web3 industry; Google Chrome Extensions with currently 200+ daily users and 1000+ installs.
+🔹Development of various tools for the web3 industry; Google Chrome Extensions with currently 350+ daily users and 1500+ installs.
 
 🔹Development of a fully autonomous robotic performance simulator from idea to MVP.
 
