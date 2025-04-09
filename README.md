@@ -8,7 +8,7 @@
 
 🔹A background in human technology, blockchain technology and an eye for UI/UX.
 
-🔹3+ years of experience in full-stack development.
+🔹4+ years of experience in full-stack development.
 
 #### Achievements 
 🔹Development of a P2P tutoring application from scratch to launch, used by 20+ high schools.
