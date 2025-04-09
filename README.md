@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! ###
 
-:chains:  I'm Martijn, an enthusiastic developer from the Netherlands. Currently building TeachBuddy, a P2P tutoring platform, and various tools for the web3 industry (1500+ installs).
+:chains:  I'm Martijn, an enthusiastic developer from the Netherlands. Currently building TeachBuddy, a P2P tutoring platform, and various tools for the web3 industry (3100+ installs). One awarded with a Base Builder Grant.
 
 :man_student:  In my free time I like to go to the gym and create educational content on social media about various blockchain projects.
 
@@ -11,9 +11,9 @@
 🔹3+ years of experience in full-stack development.
 
 #### Achievements 
-🔹Development of a P2P tutoring application from scratch to launch, used by 15+ high schools.
+🔹Development of a P2P tutoring application from scratch to launch, used by 20+ high schools.
 
-🔹Development of various tools for the web3 industry; Google Chrome Extensions with currently 350+ daily users and 1500+ installs.
+🔹Development of various tools for the web3 industry; Google Chrome Extensions with currently 900+ daily users and 3100+ installs.
 
 🔹Development of a fully autonomous robotic performance simulator from idea to MVP.
 
